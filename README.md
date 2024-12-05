@@ -86,8 +86,8 @@ The project uses a dataset containing the following columns:
 ### Dashboard View
 ![Dashboard Screenshot](images/Screenshot_1.png)
 
-### Combo Box in Action
-![Combo Box Screenshot](images/combo-box.png)
+### Working Sheet
+![Combo Box Screenshot](images/Screenshot_5.png)
 
 ---
 
